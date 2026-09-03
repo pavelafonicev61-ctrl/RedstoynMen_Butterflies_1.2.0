@@ -1,0 +1,1 @@
+{ "parent": "minecraft:block/cube_all", "textures": { "all": "redstoynmen_butterflies:block/common_hive" } }

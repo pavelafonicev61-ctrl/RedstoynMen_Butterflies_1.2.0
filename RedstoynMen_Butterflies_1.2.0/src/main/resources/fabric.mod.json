@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "redstoynmen_butterflies",
+  "version": "${version}",
+  "name": "RedstoynMen Butterflies",
+  "description": "Three colourful butterflies with nectar, mutation and magical honey.",
+  "authors": [{ "name": "RedstoynMen" }],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.redstoynmen.butterflies.RedstoynMenButterflies"],
+    "client": ["com.redstoynmen.butterflies.client.RedstoynMenButterfliesClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

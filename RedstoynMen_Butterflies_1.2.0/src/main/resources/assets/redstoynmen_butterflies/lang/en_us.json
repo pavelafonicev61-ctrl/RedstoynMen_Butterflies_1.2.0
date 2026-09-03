@@ -1,0 +1,19 @@
+{
+  "itemGroup.redstoynmen_butterflies.butterflies": "RedstoynMen: Butterflies",
+  "item.redstoynmen_butterflies.pollen": "Pollen",
+  "item.redstoynmen_butterflies.common_honey": "Common Honey",
+  "item.redstoynmen_butterflies.positive_honey": "Positive Honey",
+  "item.redstoynmen_butterflies.aggressive_honey": "Aggressive Honey",
+  "item.redstoynmen_butterflies.common_butterfly_spawn_egg": "Common Butterfly Spawn Egg",
+  "item.redstoynmen_butterflies.green_butterfly_spawn_egg": "Green Butterfly Spawn Egg",
+  "item.redstoynmen_butterflies.red_butterfly_spawn_egg": "Red Butterfly Spawn Egg",
+  "block.redstoynmen_butterflies.common_hive": "Common Butterfly Hive",
+  "block.redstoynmen_butterflies.green_hive": "Green Butterfly Hive",
+  "block.redstoynmen_butterflies.red_hive": "Red Butterfly Hive",
+  "block.redstoynmen_butterflies.green_positive_flower": "Green Positive Flower",
+  "block.redstoynmen_butterflies.red_aggressive_flower": "Red Aggressive Flower",
+  "entity.redstoynmen_butterflies.common_butterfly": "Common Butterfly",
+  "entity.redstoynmen_butterflies.green_butterfly": "Green Butterfly",
+  "entity.redstoynmen_butterflies.red_butterfly": "Red Butterfly",
+  "effect.redstoynmen_butterflies.positive_honey": "Positive Honey Protection"
+}

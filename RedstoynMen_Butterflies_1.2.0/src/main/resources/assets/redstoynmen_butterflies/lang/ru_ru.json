@@ -1,0 +1,19 @@
+{
+  "itemGroup.redstoynmen_butterflies.butterflies": "RedstoynMen: Бабочки",
+  "item.redstoynmen_butterflies.pollen": "Пыльца",
+  "item.redstoynmen_butterflies.common_honey": "Обычный мёд",
+  "item.redstoynmen_butterflies.positive_honey": "Позитивный мёд",
+  "item.redstoynmen_butterflies.aggressive_honey": "Агрессивный мёд",
+  "item.redstoynmen_butterflies.common_butterfly_spawn_egg": "Яйцо обычной бабочки",
+  "item.redstoynmen_butterflies.green_butterfly_spawn_egg": "Яйцо зелёной бабочки",
+  "item.redstoynmen_butterflies.red_butterfly_spawn_egg": "Яйцо красной бабочки",
+  "block.redstoynmen_butterflies.common_hive": "Обычный улей бабочек",
+  "block.redstoynmen_butterflies.green_hive": "Зелёный улей бабочек",
+  "block.redstoynmen_butterflies.red_hive": "Красный улей бабочек",
+  "block.redstoynmen_butterflies.green_positive_flower": "Зелёный позитивный цветок",
+  "block.redstoynmen_butterflies.red_aggressive_flower": "Красный агрессивный цветок",
+  "entity.redstoynmen_butterflies.common_butterfly": "Обычная бабочка",
+  "entity.redstoynmen_butterflies.green_butterfly": "Зелёная бабочка",
+  "entity.redstoynmen_butterflies.red_butterfly": "Красная бабочка",
+  "effect.redstoynmen_butterflies.positive_honey": "Защита позитивного мёда"
+}
